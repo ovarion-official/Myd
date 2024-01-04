@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19c9e252c2c72204cad4cf26c89b7a8c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 230207
+  packageName: Mobile Tank
+  packageVersion: 1.0.1
+  assetPath: Assets/Military_pack/Tank/Prefabs/Tank.prefab
+  uploadId: 525765

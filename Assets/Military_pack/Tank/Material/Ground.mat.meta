@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d776e787d37f61446bc73405f6c7e860
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 230207
+  packageName: Mobile Tank
+  packageVersion: 1.0.1
+  assetPath: Assets/Military_pack/Tank/Material/Ground.mat
+  uploadId: 525765
