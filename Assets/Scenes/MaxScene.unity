@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028334, g: 0.2257134, b: 0.30692226, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -392,7 +392,7 @@ GameObject:
   - component: {fileID: 534669903}
   - component: {fileID: 534669906}
   m_Layer: 0
-  m_Name: Main Camera
+  m_Name: Display 2
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -465,13 +465,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.22677448, y: -0.020396803, z: -0.003552346, w: 0.97372717}
-  m_LocalPosition: {x: -0.28, y: 5.95, z: -2.06}
+  m_LocalRotation: {x: 0.16646247, y: -0.6872338, z: 0.15404584, w: 0.6901231}
+  m_LocalPosition: {x: 9, y: 6, z: 6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 26.199, y: -2.64, z: -1.033}
+  m_LocalEulerAnglesHint: {x: 26.199, y: -90, z: -1.033}
 --- !u!114 &534669906
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -818,16 +818,16 @@ RectTransform:
   m_GameObject: {fileID: 1311788483}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.8662, y: 2.6982784, z: 1.8662}
+  m_LocalScale: {x: 1.8662, y: 1.6056916, z: 1.8662}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1469028593}
   m_Father: {fileID: 2061562111}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0}
-  m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -1534, y: 346}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchorMin: {x: 0.013, y: 0.906}
+  m_AnchorMax: {x: 0.10845125, y: 0.9877577}
+  m_AnchoredPosition: {x: 0.2998047, y: -0.5999756}
+  m_SizeDelta: {x: -81, y: -35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1311788485
 MonoBehaviour:
